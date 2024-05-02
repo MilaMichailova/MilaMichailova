@@ -25,7 +25,7 @@
 *Полный список репозиториев: [репозитории](http://https://github.com/MilaMichailova?tab=repositories)
 
 * 🚀  Мой последний проект [пет проект](http://https://milamichailova.github.io/haosNo/)
-* 🧠  I'm learning Angular
+* 🧠  В настоящее время я продолжаю более детальное изучение JS, Angular и TypeScript.
 
 
 <a href="https://www.github.com/MilaMichailova" target="_blank" rel="noreferrer"><img
