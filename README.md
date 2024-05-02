@@ -17,10 +17,10 @@
 | Название курса  | Ссылка |
 | ------------- | ------------- |
 | Frontend-разработчик Skillfactory | https://cat.2035.university/rall/course/20166/?_ga=2.169606881.1159068502.1714647785-1731132110.1713252190  |
-| "Angular 9. Теория и практика 2020. Все включено + Бонусы"  | https://www.udemy.com/share/109TAC3@SNRHjQz0S7zBMuk-svrmvAcztU_jL06GI3P8oa5CxeIOvZvoOIh8Ac4lx9ZXIvqbBw==/  |
-| "TypeScript с нуля" | https://www.udemy.com/share/104LKo3@8LJoD2CR4ROP2WAZ39i5E8iFbKg2KdBfc1Tn03DupC7VJnuGX1W3A6u9Vbh4Xrw4mQ==/  |
-| "Компетенция Верстальщик - HTML, CSS, JavaScript"  | https://www.udemy.com/share/104LKo3@8LJoD2CR4ROP2WAZ39i5E8iFbKg2KdBfc1Tn03DupC7VJnuGX1W3A6u9Vbh4Xrw4mQ==/ |
-| Руководство по программированию JavaScript  | https://metanit.com/web/javascript/4.1.php |метанит
+| "Angular 9. Теория и практика 2020. Все включено + Бонусы" Udemy  | https://www.udemy.com/share/109TAC3@SNRHjQz0S7zBMuk-svrmvAcztU_jL06GI3P8oa5CxeIOvZvoOIh8Ac4lx9ZXIvqbBw==/  |
+| "TypeScript с нуля" Udemy | https://www.udemy.com/share/104LKo3@8LJoD2CR4ROP2WAZ39i5E8iFbKg2KdBfc1Tn03DupC7VJnuGX1W3A6u9Vbh4Xrw4mQ==/  |
+| "Компетенция Верстальщик - HTML, CSS, JavaScript"  Udemy | https://www.udemy.com/share/104LKo3@8LJoD2CR4ROP2WAZ39i5E8iFbKg2KdBfc1Tn03DupC7VJnuGX1W3A6u9Vbh4Xrw4mQ==/ |
+| Руководство по программированию JavaScript  metanit | https://metanit.com/web/javascript/4.1.php |
 
 *Полный список репозиториев: [репозитории](http://https://github.com/MilaMichailova?tab=repositories)
 
