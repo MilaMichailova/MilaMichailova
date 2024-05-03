@@ -7,13 +7,10 @@
 
 Во время обучения на дому я использовала:
 
-- видеоуроки(множество видеокурсов с youtube), 
-
-- изучала теорию по книгам  (Дубовик Е.В. сборники JS, CSS, HTML;  Профессиональный TypeScript. Борис Черный, Разработка масштабируемых JavaScript-приложений; Сергей Тепляков, Паттерны проектирования на платформе .NET (2015). и др.) 
-
-- изучала теорию по сайтам и форумам   (metanit.com; developer.mozilla.org; web-dev.guru/angular; habr.com; learn.javascript.ru; Stack Overflow и др.) 
-
-- проходила онлайн курсы по JS, CSS, HTML, Angular, TypeScript и React.
+- видеоуроки(множество видеокурсов с youtube),  
+- изучала теорию по книгам  (Дубовик Е.В. сборники JS, CSS, HTML;  Профессиональный TypeScript. Борис Черный, Разработка масштабируемых JavaScript-приложений; Сергей Тепляков, Паттерны проектирования на платформе .NET (2015). и др.)  
+- изучала теорию по сайтам и форумам   (metanit.com; developer.mozilla.org; web-dev.guru/angular; habr.com; learn.javascript.ru; Stack Overflow и др.)  
+- проходила онлайн курсы по JS, CSS, HTML, Angular, TypeScript и React.  
 
 Моим наставником и автором учебной программы был мой супруг, который является middle fullstack разработчиком. 
 
