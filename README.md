@@ -27,7 +27,7 @@
 
 
 ### Технологии:
-На данный момент я владею навыками создания сайтов с использованием *figma, typescript, angular, angular material, angular cli, git, бэм, scss*. 
+На данный момент я владею навыками создания сайтов с использованием *Figma, Typescript, Angular, Angular material, Angular cli, Git, БЭМ, Scss*. 
 
 При разработке проектов придерживаюсь принципов *ООП, SOLID, DRY, KISS*. 
 
