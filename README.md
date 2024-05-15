@@ -25,6 +25,7 @@
 ### Демонстрация:
 | Название работы  | Ссылка |
 | ------------- | ------------- |
+|  Последний проект  |  (https://milamichailova.github.io/haosNo/) |
 |  верстка лендинга по макету  |  (https://milamichailova.github.io/sf-hw-2/) |
 
 
