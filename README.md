@@ -16,14 +16,17 @@
 
 > У меня есть диплом о профессиональной переподготовке.
 
-# Пройденные курсы:
-| Название курса  | Ссылка |
+ #### Cписок репозиториев: 
+ * 🚀  Мои [репозитории](http://github.com/MilaMichailova?tab=repositories)
+ * 🚀  Мой последний [пет проект](https://github.com/MilaMichailova/haosNo)
+ * 🧠  В настоящее время я продолжаю более детальное изучение JS, Angular и TypeScript.
+
+   ### Примеры работ:
+
+### Демонстрация:
+| Название работы  | Ссылка |
 | ------------- | ------------- |
-| Frontend-разработчик Skillfactory | https://cat.2035.university/rall/course/20166/?_ga=2.169606881.1159068502.1714647785-1731132110.1713252190  |
-| "Angular 9. Теория и практика 2020. Все включено + Бонусы" Udemy  | https://www.udemy.com/share/109TAC3@SNRHjQz0S7zBMuk-svrmvAcztU_jL06GI3P8oa5CxeIOvZvoOIh8Ac4lx9ZXIvqbBw==/  |
-| "TypeScript с нуля" Udemy | https://www.udemy.com/share/104LKo3@8LJoD2CR4ROP2WAZ39i5E8iFbKg2KdBfc1Tn03DupC7VJnuGX1W3A6u9Vbh4Xrw4mQ==/  |
-| "Компетенция Верстальщик - HTML, CSS, JavaScript"  Udemy | https://www.udemy.com/share/104LKo3@8LJoD2CR4ROP2WAZ39i5E8iFbKg2KdBfc1Tn03DupC7VJnuGX1W3A6u9Vbh4Xrw4mQ==/ |
-| Руководство по программированию JavaScript  metanit | https://metanit.com/web/javascript/4.1.php |
+|  верстка лендинга по макету  |  (https://milamichailova.github.io/sf-hw-2/) |
 
 
 ### Технологии:
@@ -38,17 +41,18 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
 </p>
 
-### Примеры работ:
 
-#### Демонстрация:
-| Название работы  | Ссылка |
+
+### Пройденные курсы:
+| Название курса  | Ссылка |
 | ------------- | ------------- |
-|  верстка лендинга по макету  |  (https://milamichailova.github.io/sf-hw-2/) |
+| Frontend-разработчик Skillfactory | https://cat.2035.university/rall/course/20166/?_ga=2.169606881.1159068502.1714647785-1731132110.1713252190  |
+| "Angular 9. Теория и практика 2020. Все включено + Бонусы" Udemy  | https://www.udemy.com/share/109TAC3@SNRHjQz0S7zBMuk-svrmvAcztU_jL06GI3P8oa5CxeIOvZvoOIh8Ac4lx9ZXIvqbBw==/  |
+| "TypeScript с нуля" Udemy | https://www.udemy.com/share/104LKo3@8LJoD2CR4ROP2WAZ39i5E8iFbKg2KdBfc1Tn03DupC7VJnuGX1W3A6u9Vbh4Xrw4mQ==/  |
+| "Компетенция Верстальщик - HTML, CSS, JavaScript"  Udemy | https://www.udemy.com/share/104LKo3@8LJoD2CR4ROP2WAZ39i5E8iFbKg2KdBfc1Tn03DupC7VJnuGX1W3A6u9Vbh4Xrw4mQ==/ |
+| Руководство по программированию JavaScript  metanit | https://metanit.com/web/javascript/4.1.php |
 
- #### Cписок репозиториев: 
- * 🚀  Мои [репозитории](http://github.com/MilaMichailova?tab=repositories)
- * 🚀  Мой последний [пет проект](https://github.com/MilaMichailova/haosNo)
- * 🧠  В настоящее время я продолжаю более детальное изучение JS, Angular и TypeScript.
+
 
 
 ### Найти меня можно в :
