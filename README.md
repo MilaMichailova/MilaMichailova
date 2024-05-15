@@ -18,7 +18,7 @@
 
  ### Cписок репозиториев: 
  * 🚀  Мои [репозитории](http://github.com/MilaMichailova?tab=repositories)
- * 🚀  Мой последний [пет проект](https://github.com/MilaMichailova/haosNo)
+ * 🚀  Мой последний [пет проект](https://github.com/MilaMichailova/haosNo), и его [демонстрация](https://milamichailova.github.io/haosNo/)
  * 🧠  В настоящее время я продолжаю более детальное изучение JS, Angular и TypeScript.
 
 
