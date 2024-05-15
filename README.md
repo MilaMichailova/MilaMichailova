@@ -26,7 +26,7 @@
 | Название работы  | Ссылка |
 | ------------- | ------------- |
 |  Последний проект  |  (https://milamichailova.github.io/haosNo/) |
-|  верстка лендинга по макету  |  (https://milamichailova.github.io/sf-hw-2/) |
+|  Верстка лендинга по макету  |  (https://milamichailova.github.io/sf-hw-2/) |
 
 
 ### Технологии:
